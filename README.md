@@ -1,6 +1,6 @@
 👋 Hi, I'm H. William Polenz  
 **C++ Engineer | Low-Latency Systems | Algorithmic Problem Solver**  
-4+ years in trading tech | 2000+ coding challenges solved | Mathematics enthusiast  
+~4 years in trading tech | 2000+ coding challenges solved | Mathematics enthusiast  
 
 🔧 **Tech Stack**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
